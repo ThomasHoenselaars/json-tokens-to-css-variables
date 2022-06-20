@@ -1,0 +1,92 @@
+{
+    "space": {
+        "1": {
+            "value": "4px",
+            "type": "spacing"
+        },
+        "2": {
+            "value": "8px",
+            "type": "spacing"
+        }
+    },
+    "color": {
+        "red": {
+            "value": "#d50c0c",
+            "type": "color"
+        },
+        "yellow": {
+            "value": "#ebe403",
+            "type": "color"
+        }
+    },
+    "font": {
+        "primary": {
+            "fontFamily": {
+                "value": "Arial",
+                "type": "fontFamily"
+            },
+            "fontWeight": {
+                "value": "400",
+                "type": "fontWeight"
+            },
+            "lineHeight": {
+                "value": "1",
+                "type": "lineHeight"
+            },
+            "fontSize": {
+                "value": "24px",
+                "type": "fontSize"
+            },
+            "letterSpacing": {
+                "value": "1",
+                "type": "letterSpacing"
+            },
+            "paragraphSpacing": {
+                "value": "1",
+                "type": "paragraphSpacing"
+            },
+            "textDecoration": {
+                "value": "",
+                "type": "textDecoration"
+            }
+        },
+        "secondary": {
+            "fontFamily": {
+                "value": "Times",
+                "type": "fontFamily"
+            },
+            "fontWeight": {
+                "value": "100",
+                "type": "fontWeight"
+            }
+        }
+    },
+    "shadow": {
+        "sm": {
+            "x": {
+                "value": "8",
+                "type": "x"
+            },
+            "y": {
+                "value": "8",
+                "type": "y"
+            },
+            "blur": {
+                "value": "100",
+                "type": "blur"
+            },
+            "spread": {
+                "value": "20",
+                "type": "spread"
+            },
+            "color": {
+                "value": "#000000",
+                "type": "color"
+            },
+            "type": {
+                "value": "dropShadow",
+                "type": "type"
+            }
+        }
+    }
+}
